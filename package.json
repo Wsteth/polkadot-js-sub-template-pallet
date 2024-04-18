@@ -1,0 +1,15 @@
+{
+  "name": "polkadotJs-sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@polkadot/api": "^10.13.1",
+    "@polkadot/types": "^10.13.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
